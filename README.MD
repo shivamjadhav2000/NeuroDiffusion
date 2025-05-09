@@ -145,12 +145,7 @@ Contains:
 
 ---
 
-## 🔐 License
 
-MIT License.  
-Images generated may be subject to model license under [CompVis](https://github.com/CompVis/stable-diffusion).
-
----
 
 ## 🙌 Acknowledgements
 
