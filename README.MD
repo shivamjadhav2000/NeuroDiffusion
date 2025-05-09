@@ -8,7 +8,7 @@
 
 ## 📸 Demo
 
-![screenshot](media/example1.png)  
+![screenshot](media/futristic_city_with_huge_build_20250505181709.png)  
 *Prompt: "A futuristic Tesla AI lab surrounded by neon-lit cityscapes"*
 
 ---
