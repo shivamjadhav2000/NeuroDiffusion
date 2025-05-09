@@ -1,6 +1,6 @@
-# 🧠 NeuroDiffusion
+# 🧠 PromptForge-AI
 
-**NeuroDiffusion** is a full-stack AI-powered text-to-image generation system that lets you prompt stunning visuals using a sleek ChatGPT-style frontend. It's powered by [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5), integrated with a Django backend, and backed by persistent prompt history — both in a database and JSON.
+**PromptForge-AI** is a full-stack AI-powered text-to-image generation system that lets you prompt stunning visuals using a sleek ChatGPT-style frontend. It's powered by [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5), integrated with a Django backend, and backed by persistent prompt history — both in a database and JSON.
 
 > Imagine your ideas — visualized instantly with Tesla-class GPU acceleration.
 
